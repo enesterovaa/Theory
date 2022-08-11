@@ -117,7 +117,26 @@ Client = User agent. Клиентами могут быть: браузер, Pos
 
 ## Какие браузеры какие ядра используют ##
 
-7. Что такое API
+Trider - проприетарный движок Microsoft Internet Explorer.
+
+EdgeHTML - движок от компании Microsoft для ее браузера Microsoft Edge.Является ответвлением Trident.
+
+Blink - движок браузера  Chromium, браузера Google Chrome с 28 версии, Microsoft Edge с 79 версии, 
+
+Opera с 15 версии и Vivaldi. Он является ответвлением WebKit.
+
+Gecko - открытый движок проекта Mozilla; используется в большом числе программ, основанных на коде Mozilla 
+
+(браузер Firefox, почтовом клиенте Thuderbird, наборе программ SeaMonkey)
+
+WebKit - движок для браузера Apple Safari, включенного в операционную систему Mac OS X, и браузера 
+
+Google Chrome (до 2013). Встроен в библиотеку Qt (начиная с Qt 5.6 признан устаревшим).
+
+KHTML - разработан в рамках проекта KDE, используется в браузере Konqueror и послужил основой для WebKit
+
+
+## Что такое API ##
 
 8. Что такое эндпоинты
 
